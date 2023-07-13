@@ -40,9 +40,20 @@ a{
     background-color: #666;
 }
 
+.sidebarlinks{
+    position: relative;
+}
+
+.mores{
+    position: absolute;
+    right: 10px;
+    top: 50%;
+
+    transform: translateY(-50%);
+}
+
 .currents{
     color: #fff;
-    opacity: 1;
     background-color: #666;
 }
 
